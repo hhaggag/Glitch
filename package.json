@@ -1,0 +1,19 @@
+{
+  "name": "glitch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hhaggag/Glitch.git"
+  },
+  "author": "h-haggag",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hhaggag/Glitch/issues"
+  },
+  "homepage": "https://github.com/hhaggag/Glitch#readme"
+}
